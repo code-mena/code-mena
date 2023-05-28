@@ -1,4 +1,4 @@
-### Hi there. I'm Juan a Developer👋
+### Hi there. I'm a Developer👋
 
 
 🔭 I’m currently working on JavaScript.
