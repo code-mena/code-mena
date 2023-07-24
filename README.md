@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects. 🗸<br>👯 I’m looking to collaborate with other developers. 🗸<br>🌱 I’m currently learning about clean architectures. 🗸<br>💬 Ask me about web development. 🗸
+🔭 I’m currently working on my own projects. 🗸<br>👯 I’m looking to collaborate with other developers. 🗸<br>🌱 I’m currently learning about clean architectures. 🗸<br>💬 Ask me about backend development. 🗸
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://juanme16.github.io/)
 
