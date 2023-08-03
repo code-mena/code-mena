@@ -8,7 +8,7 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-diego-cuevas-mena)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -22,7 +22,8 @@
 <br>
 <br>
 
-### 🔨 Tools
+
+## 🔨 Tools
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
