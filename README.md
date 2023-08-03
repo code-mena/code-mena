@@ -20,10 +20,4 @@
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
 <img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br>
-<br>
-
-
-## 🔨 Tools
-<img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
