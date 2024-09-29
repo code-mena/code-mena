@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-🔭 I’m currently working as a web developer freelance. 🗸<br>
+🔭 I’m currently working as a backend developer. 🗸<br>
 👯 I’m looking to collaborate with other developers to grow together. 🗸<br>
 🌱 I’m currently gaining cloud skills. 🗸<br>
-💬 Ask me about fullstack web development. 🗸
+💬 Ask me about backend development. 🗸
 
 # 📊 GitHub Stats:
 
