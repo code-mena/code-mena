@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-🔭 I’m currently working as a DevOps Engineer. 🗸<br>
+🔭 I’m currently working as an IT Engineer. 🗸<br>
 👯 I’m looking to collaborate with other developers to grow together. 🗸<br>
-🌱 I’m currently gaining cloud skills. 🗸<br>
-💬 Ask me about DevOps. 🗸
+🌱 I’m currently gaining ai skills. 🗸<br>
+💬 Ask me about ai. 🗸
 
 # 📊 GitHub Stats:
 
