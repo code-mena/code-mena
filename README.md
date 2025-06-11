@@ -2,8 +2,8 @@
 
 🔭 I’m currently working as an IT Engineer. 🗸<br>
 👯 I’m looking to collaborate with other developers to grow together. 🗸<br>
-🌱 I’m currently gaining ai skills. 🗸<br>
-💬 Ask me about ai. 🗸
+🌱 I’m currently gaining AI skills. 🗸<br>
+💬 Ask me about AI. 🗸
 
 # 📊 GitHub Stats:
 
